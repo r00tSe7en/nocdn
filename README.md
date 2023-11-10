@@ -4,6 +4,12 @@
 
 调用`projectdiscovery`的`cdncheck`库，实现批量去除CDN &amp; WAF IP地址
 
+# Install
+
+```
+go install -v github.com/r00tSe7en/nocdn@latest
+```
+
 # Usage
 
 ```
